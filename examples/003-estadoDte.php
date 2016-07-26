@@ -1,6 +1,7 @@
 <?php
 
 /**
+ * Comenzamos hg3
  * LibreDTE
  * Copyright (C) SASCO SpA (https://sasco.cl)
  *
